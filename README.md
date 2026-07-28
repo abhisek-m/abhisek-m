@@ -12,7 +12,7 @@
 ```
 ```
 ┌───────────────────────────────────────────────────────────┐
-│  ■ ■ ■                                     root@ABHISEK-M │
+│  ■ ■ ■                                      root@abhisek-m│
 ├───────────────────────────────────────────────────────────┤
 ```
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=F7FF00&background=000000&center=true&vCenter=true&width=780&height=50&lines=root%40abhisek-m%3A~%24%20whoami%3B%3E%20EEE%20STUDENT%3B%3E%20FULL%20STACK%20DEVELOPER%3B%3E%20ARDUINO%20DEVELOPER%3B%3E%20AI%20ENTHUSIAST" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 <div align="center">
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-### `> WHOAMI`
+### > WHOAMI
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 </div>
@@ -48,11 +48,11 @@ feed of what I'm shipping, breaking, and learning.
 <br>
 
 <div align="center">
-```
+
 ██████████████████████████████
 STATS
 ██████████████████████████████
-```
+
 </div>
 
 <br>
@@ -94,11 +94,11 @@ ACTIVITY
 <br>
 
 <div align="center">
-```
+
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 TROPHY CASE
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-```
+
 </div>
 
 <br>
@@ -150,7 +150,7 @@ TECH STACK
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/VS%20CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=F7FF00" />
-<img src="https://img.shields.io/badge/LOGISIM-000000?style=for-the-badge&logo=logisim&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LOGISIM-000000?style=for-the-badge&logo=circuitverse&logoColor=F7FF00" />
 <img src="https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender&logoColor=F7FF00" />
 
 </div>
