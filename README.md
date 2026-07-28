@@ -150,8 +150,8 @@ TECH STACK
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/VS%20CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=F7FF00" />
-<img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=blender&logoColor=F7FF00" />
+<img src="https://img.shields.io/badge/LOGISIM-000000?style=for-the-badge&logo=logisim&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender&logoColor=F7FF00" />
 
 </div>
 
