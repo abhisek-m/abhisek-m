@@ -2,15 +2,21 @@
 
 █████████████████████████████████████████████████████████████████████
 
+   █    ██████  █     █ ███  █████  ███████ █    █ 
+  █ █   █     █ █     █  █  █     █ █       █   █  
+ █   █  █     █ █     █  █  █       █       █  █   
+█     █ ██████  ███████  █   █████  █████   ███    
+███████ █     █ █     █  █        █ █       █  █   
+█     █ █     █ █     █  █  █     █ █       █   █  
+█     █ ██████  █     █ ███  █████  ███████ █    █
+
+
 ┌────────────────────────────────────────────────────────────────┐
 │  ■ ■ ■                                     root@ABHISEK-M │
 ├────────────────────────────────────────────────────────────────┤
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=F7FF00&background=000000&center=true&vCenter=true&width=780&height=50&lines=root%40YOUR_USERNAME%3A~%24%20whoami%3B%3E%20EEE%20STUDENT%3B%3E%20FULL%20STACK%20DEVELOPER%3B%3E%20ARDUINO%20DEVELOPER%3B%3E%20AI%20ENTHUSIAST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=F7FF00&background=000000&center=true&vCenter=true&width=780&height=50&lines=root%40abhisek-m%3A~%24%20whoami%3B%3E%20EEE%20STUDENT%3B%3E%20FULL%20STACK%20DEVELOPER%3B%3E%20ARDUINO%20DEVELOPER%3B%3E%20AI%20ENTHUSIAST" alt="Typing SVG" />
 
-└────────────────────────────────────────────────────────────────┘
-
-█████████████████████████████████████████████████████████████████████
 
 </div>
 
@@ -25,10 +31,10 @@
 </div>
 
 
-NAME       : ABHISEK M
-ROLE       : EEE STUDENT
-LOCATION   : EVERYWHERE
-STATUS     : [ ONLINE ]
+NAME       : ABHISEK M <br>
+ROLE       : EEE STUDENT<br>
+LOCATION   : EVERYWHERE<br>
+STATUS     :  ONLINE <br>
 
 
 <div align="center">
@@ -45,7 +51,6 @@ feed of what I'm shipping, breaking, and learning.
 
 ██████████████████████████████
 STATS
-#do not use slops that bores me
 ██████████████████████████████
 
 </div>
@@ -67,11 +72,6 @@ STATS
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ACTIVITY
-#walk
-#talk
-#breathe
-#live
-#survive
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
@@ -80,11 +80,11 @@ ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=F7FF00&line=FF2D2D&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisek-m&bg_color=000000&color=F7FF00&line=FF2D2D&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="98%" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="98%" />
+<img src="https://raw.githubusercontent.com/abhisek-m/abhisek-m/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="98%" />
 
 <sub>[ SNAKE REQUIRES A ONE-TIME GITHUB ACTION SETUP — SEE NOTE BELOW ]</sub>
 
@@ -105,7 +105,7 @@ TROPHY CASE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhisek-m&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -166,51 +166,28 @@ CURRENTLY BUILDING
 </div>
 
 <table width="100%">
+
 <tr>
 <td width="50%" valign="top">
 
 ```
-[ PROJECT_01 ]
-──────────────
-AI BOUQUET GENERATOR
-STATUS: IN_PROGRESS
-STACK : PYTHON / AI / REACT
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-[ PROJECT_02 ]
-──────────────
-ARDUINO PROJECTS
-STATUS: IN_PROGRESS
-STACK : C / C++ / EMBEDDED
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-
 [ PROJECT_01 ]
 ──────────────
 FULL STACK APPS
 STATUS: IN_PROGRESS
 STACK : NEXT.JS / NODE / EXPRESS
-
+```
 
 </td>
 <td width="50%" valign="top">
 
-
+```
 [ PROJECT_02 ]
 ──────────────
 ELECTRONICS PROJECTS
 STATUS: IN_PROGRESS
 STACK : CIRCUITS / SENSORS / PCB
-
+```
 
 </td>
 </tr>
@@ -314,7 +291,7 @@ QUOTE
 
 <br>
 
-█████████████████████████████████████████████████████████████████████
+█████████████████████████████████████████████████████████████████████████████████████
 
 <div align="center">
 
@@ -331,4 +308,4 @@ QUOTE
 
 </div>
 
-█████████████████████████████████████████████████████████████████████
+█████████████████████████████████████████████████████████████████████████████████████
