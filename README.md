@@ -97,7 +97,6 @@ ACTIVITY
 ```
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 TROPHY CASE
-#if I mention they'll catch me
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 ```
 </div>
@@ -113,18 +112,18 @@ TROPHY CASE
 <br>
 
 <div align="center">
-```
+
 ██████████████████████████████
 TECH STACK
 ██████████████████████████████
-```
+
 </div>
 
 <br>
 
 <div align="center">
 
-**// LANGUAGES**
+**LANGUAGES**
 
 <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=F7FF00" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7FF00" />
@@ -136,7 +135,7 @@ TECH STACK
 
 <br><br>
 
-**// FRAMEWORKS**
+**FRAMEWORKS**
 
 <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
@@ -145,14 +144,14 @@ TECH STACK
 
 <br><br>
 
-**// TOOLS**
+**TOOLS**
 
 <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF2D2D" />
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/VS%20CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=F7FF00" />
 <img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=F7FF00" />
+<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=blender&logoColor=F7FF00" />
 
 </div>
 
