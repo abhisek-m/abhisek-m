@@ -223,7 +223,6 @@ LEARNING
 
 ```
 ARCHIVE STATUS  : SEALED
-NOTE            : ADD YOUR REPO LINKS HERE MANUALLY
 ```
 ```
 - [] — RESUME— it tells abt me!!
@@ -260,8 +259,8 @@ CONTACT
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
+<a href="https://github.com/abhisek"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" /></a>
+<a href="https://www.linkedin.com/in/abhisek-maheswaran-a94a48325"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-F7FF00?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-FF2D2D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
 
