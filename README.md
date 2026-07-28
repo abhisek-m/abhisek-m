@@ -48,11 +48,11 @@ feed of what I'm shipping, breaking, and learning.
 <br>
 
 <div align="center">
-
+```
 ██████████████████████████████
 STATS
 ██████████████████████████████
-
+```
 </div>
 
 <br>
@@ -69,11 +69,11 @@ STATS
 <br>
 
 <div align="center">
-
+```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ACTIVITY
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+```
 </div>
 
 <br>
@@ -93,12 +93,12 @@ ACTIVITY
 <br>
 
 <div align="center">
-
+```
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 TROPHY CASE
 #if I mention they'll catch me
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-
+```
 </div>
 
 <br>
@@ -112,11 +112,11 @@ TROPHY CASE
 <br>
 
 <div align="center">
-
+```
 ██████████████████████████████
 TECH STACK
 ██████████████████████████████
-
+```
 </div>
 
 <br>
