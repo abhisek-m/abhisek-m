@@ -59,11 +59,11 @@ STATS
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=F7FF00&icon_color=FF2D2D&text_color=FFFFFF&border_radius=0" alt="GitHub Stats" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=abhisek-m&show_icons=true&hide_border=true&bg_color=000000&title_color=F7FF00&icon_color=FF2D2D&text_color=FFFFFF&border_radius=0" alt="GitHub Stats" width="49%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisek-m&layout=compact&hide_border=true&bg_color=000000&title_color=F7FF00&text_color=FFFFFF&border_radius=0" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisek-m&layout=compact&hide_border=true&bg_color=000000&title_color=F7FF00&text_color=FFFFFF&border_radius=0" alt="Top Languages" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=abhisek-m&hide_border=true&background=000000&ring=FF2D2D&fire=F7FF00&currStreakLabel=F7FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=0" alt="GitHub Streak" width="98%" />
+<img src="https://streak-stats.demolab.com/?user=abhisek-m&hide_border=true&background=000000&ring=FF2D2D&fire=F7FF00&currStreakLabel=F7FF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=0" alt="GitHub Streak" width="98%"/>
 
 </div>
 
